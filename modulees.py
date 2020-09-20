@@ -1,0 +1,11 @@
+import math
+def add(x,y):
+    return x+y
+def sub(x,y):
+    return x-y
+def multiply(x,y):
+    return x*y
+def divide(x,y):
+    return(x/y)
+def sqroot(x):
+    return math.sqrt(x)

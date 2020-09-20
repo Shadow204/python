@@ -1,0 +1,20 @@
+50702120066
+Strong in SQL, NoSQL, RDBMS and Data warehousing concepts
+Familiarity with data loading tools like Flume, Sqoop
+ 2  years of on-hands experience in Hadoop echo system - MapReduce, HDFS, HBase, Hive, Spark, Sqoop, YARN.
+Experience with Cloudera Distribution & expertise in Spark & Scala.
+Familiarity with Distributed data systems, asynchronous messaging i.e Kafka. 
+Experience in Azure Infrastructure
+Experience in Azure cloud services (especially Azure Devops) and deploying production code in the same
+
+Extensive experience with Unix/AIX/Linux environments
+Experience in Azure ecosystem – Azure data bricks, Azure Devops and Azure ML Services would be preferred.
+Experience with logging tools such as Splunk, ElasticSearch, Kibana, Logstash
+Experience building and optimizing data pipelines in Spark ‘big data’ environment.
+ 2 years strong experience on SQL is required
+
+
+Qwerty123$
+
+
+
